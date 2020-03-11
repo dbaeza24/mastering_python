@@ -13,7 +13,6 @@ import pytest
 from contextlib import contextmanager
 from click.testing import CliRunner
 
-from mastering_python import mastering_python
 from mastering_python import cli
 
 
